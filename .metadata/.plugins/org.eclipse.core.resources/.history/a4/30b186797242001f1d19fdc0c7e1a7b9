@@ -1,0 +1,33 @@
+package basic_grammer_loop;
+
+public class ForSyntax {
+	
+	public static void main(String[] args) {
+		/*
+		 * for (초기값; 반복조건; 증감식) {
+		 * 		반복할 코드
+		 * }
+		 */
+		/*for (int i = 1; i < 101; i++) {
+			System.out.println(i);
+		}
+	*/
+		//1. 1부터 1000까지의 합 출력.
+		
+	/*	int sum = 0;
+		for (int i = 1; i < 1001; i++) {
+			sum += i;
+		}
+		System.out.println(sum);
+	*/		
+		//2. 1부터 100 중 짝수의 합 출력.
+		int sum = 0;
+		for (int i = 1; i < 101; i++) {
+			if (i % 2 == 0) {
+				sum += i;
+			}
+		}
+		System.out.println(sum);
+	}
+
+}

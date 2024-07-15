@@ -1,0 +1,10 @@
+package basic_grammer_loop;
+
+public class For {
+	public status void main(String[] args) {
+		for(i = 1; i <101; i++) {
+			
+		}
+	}
+
+}

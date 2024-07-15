@@ -1,0 +1,16 @@
+package basic_grammer_loop;
+
+public class ForSyntax {
+	
+	public static void main(String[] args) {
+		/*
+		 * for (초기값; 반복조건; 증감식) {
+		 * 		반복할 코드
+		 * }
+		 */
+		for (int i = 1; i < 101; i++) {
+			System.out.println(i);
+		}
+	}
+
+}
