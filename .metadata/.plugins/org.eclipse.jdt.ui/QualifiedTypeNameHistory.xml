@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="CoffeeShop"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.lesson.staticexam.StringUtils"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.game.GameInfo"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthDesktopIconUI"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.string.immutable.Student"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.array.Student"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.extendsexam.Contact"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.extendsexam.EmailContact"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.extendsexam.BatMobile"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.extendsexam.Vehicle"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.extendsexam.SportsCar"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.extendsexam.drink.CarbonateDrink"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.abstractclass.CheckFileType"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.abstractclass.CheckFileMimeType"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.abstractclass.CheckFileTypeAndMimeType"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.abstractclass.AbstractFileTypeChecker"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.LgCalc"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.Calculator"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.AppleCalc"/>
+</qualifiedTypeNameHistroy>

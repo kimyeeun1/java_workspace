@@ -8,6 +8,7 @@ public class ForSyntax {
 		/*
 		 * for (초기값; 반복조건; 증감식) {
 		 * 		반복할 코드
+		 * 
 		 * }
 		 */
 		/*for (int i = 1; i < 101; i++) {
