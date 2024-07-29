@@ -24,4 +24,8 @@
     <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.LgCalc"/>
     <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.Calculator"/>
     <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.AppleCalc"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.animals.interfaces.Move"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.animals.interfaces.AddressBook"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.animals.PrintAddress"/>
+    <fullyQualifiedTypeName name="com.ktdsuniversity.edu.interfaceexam.animals.interfaces.AnonymousAdderss"/>
 </qualifiedTypeNameHistroy>
