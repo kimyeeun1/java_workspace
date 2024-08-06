@@ -46,6 +46,10 @@ public class ContactBook {
 
 	public void addressSearch(String address) {
 
+		for (int i = 0; i < personinfo.size(); i++) {
+
+		}
+
 	}
 
 }
